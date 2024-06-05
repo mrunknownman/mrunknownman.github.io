@@ -1,0 +1,2726 @@
+[
+    {
+        "date": "2023-11-01",
+        "temp": 0.7,
+        "snowdepht": 0.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-02",
+        "temp": 0.4,
+        "snowdepht": 0.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-03",
+        "temp": 4.5,
+        "snowdepht": 0.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-04",
+        "temp": 2.6,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-05",
+        "temp": -2.1,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-06",
+        "temp": -7.1,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-07",
+        "temp": -6.3,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-08",
+        "temp": -2.9,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-09",
+        "temp": -0.9,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-10",
+        "temp": 1.1,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-11",
+        "temp": 2.4,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-12",
+        "temp": 1.9,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-13",
+        "temp": 0.7,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-14",
+        "temp": 1.2,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-15",
+        "temp": 0.4,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-16",
+        "temp": 2.6,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-17",
+        "temp": 2.0,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-18",
+        "temp": -2.9,
+        "snowdepht": 0.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-19",
+        "temp": -10.3,
+        "snowdepht": 0.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-20",
+        "temp": -13.1,
+        "snowdepht": 2.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-21",
+        "temp": -12.3,
+        "snowdepht": 2.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-22",
+        "temp": -3.6,
+        "snowdepht": 1.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-23",
+        "temp": -4.5,
+        "snowdepht": 1.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-24",
+        "temp": -7.6,
+        "snowdepht": 4.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-25",
+        "temp": -11.9,
+        "snowdepht": 4.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-26",
+        "temp": -2.7,
+        "snowdepht": 4.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-27",
+        "temp": -2.3,
+        "snowdepht": 1.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-28",
+        "temp": 1.2,
+        "snowdepht": 0.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-29",
+        "temp": -2.9,
+        "snowdepht": 0.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-11-30",
+        "temp": -3.3,
+        "snowdepht": 0.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-01",
+        "temp": -6.3,
+        "snowdepht": 2.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-02",
+        "temp": -7.1,
+        "snowdepht": 5.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-03",
+        "temp": -8.8,
+        "snowdepht": 4.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-04",
+        "temp": -14.4,
+        "snowdepht": 6.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-05",
+        "temp": -0.6,
+        "snowdepht": 10.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-06",
+        "temp": -17.5,
+        "snowdepht": 12.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-07",
+        "temp": -28.3,
+        "snowdepht": 15.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-08",
+        "temp": -30.7,
+        "snowdepht": 16.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-09",
+        "temp": -32.5,
+        "snowdepht": 16.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-10",
+        "temp": -30.4,
+        "snowdepht": 16.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-11",
+        "temp": -32.5,
+        "snowdepht": 16.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-12",
+        "temp": -33.0,
+        "snowdepht": 15.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-13",
+        "temp": -29.8,
+        "snowdepht": 15.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-14",
+        "temp": -27.9,
+        "snowdepht": 15.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-15",
+        "temp": -23.6,
+        "snowdepht": 15.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-16",
+        "temp": -21.1,
+        "snowdepht": 15.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-17",
+        "temp": -17.6,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-18",
+        "temp": -10.0,
+        "snowdepht": 16.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-19",
+        "temp": -10.3,
+        "snowdepht": 22.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-20",
+        "temp": -14.6,
+        "snowdepht": 23.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-21",
+        "temp": -4.9,
+        "snowdepht": 21.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-22",
+        "temp": -5.6,
+        "snowdepht": 15.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-23",
+        "temp": -11.6,
+        "snowdepht": 20.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-24",
+        "temp": -10.6,
+        "snowdepht": 22.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-25",
+        "temp": -4.2,
+        "snowdepht": 21.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-26",
+        "temp": -4.2,
+        "snowdepht": 16.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-27",
+        "temp": -3.7,
+        "snowdepht": 21.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-28",
+        "temp": -3.3,
+        "snowdepht": 23.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-29",
+        "temp": -10.5,
+        "snowdepht": 19.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-30",
+        "temp": -9.8,
+        "snowdepht": 28.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2023-12-31",
+        "temp": -13.1,
+        "snowdepht": 31.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-01",
+        "temp": -1.6,
+        "snowdepht": 28.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-02",
+        "temp": -21.2,
+        "snowdepht": 35.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-03",
+        "temp": -25.5,
+        "snowdepht": 36.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-04",
+        "temp": -12.9,
+        "snowdepht": 35.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-05",
+        "temp": -11.5,
+        "snowdepht": 33.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-06",
+        "temp": -11.5,
+        "snowdepht": 33.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-07",
+        "temp": -3.6,
+        "snowdepht": 31.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-08",
+        "temp": -20.6,
+        "snowdepht": 37.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-09",
+        "temp": -29.2,
+        "snowdepht": 33.7,
+        "isDzud": 1
+    },
+    {
+        "date": "2024-01-10",
+        "temp": -20.2,
+        "snowdepht": 37.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-11",
+        "temp": -27.4,
+        "snowdepht": 38.9,
+        "isDzud": 1
+    },
+    {
+        "date": "2024-01-12",
+        "temp": -26.9,
+        "snowdepht": 38.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-13",
+        "temp": -10.6,
+        "snowdepht": 37.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-14",
+        "temp": -25.4,
+        "snowdepht": 39.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-15",
+        "temp": -27.6,
+        "snowdepht": 41.3,
+        "isDzud": 1
+    },
+    {
+        "date": "2024-01-16",
+        "temp": -31.1,
+        "snowdepht": 41.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-17",
+        "temp": -30.0,
+        "snowdepht": 41.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-18",
+        "temp": -24.5,
+        "snowdepht": 41.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-19",
+        "temp": -21.1,
+        "snowdepht": 41.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-20",
+        "temp": -27.4,
+        "snowdepht": 41.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-21",
+        "temp": -26.6,
+        "snowdepht": 41.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-22",
+        "temp": -22.1,
+        "snowdepht": 41.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-23",
+        "temp": -21.8,
+        "snowdepht": 41.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-24",
+        "temp": -19.0,
+        "snowdepht": 41.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-25",
+        "temp": -20.9,
+        "snowdepht": 41.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-26",
+        "temp": -11.8,
+        "snowdepht": 49.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-27",
+        "temp": -19.8,
+        "snowdepht": 54.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-28",
+        "temp": -22.0,
+        "snowdepht": 53.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-29",
+        "temp": -24.7,
+        "snowdepht": 53.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-30",
+        "temp": -25.6,
+        "snowdepht": 54.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-01-31",
+        "temp": -26.0,
+        "snowdepht": 54.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-01",
+        "temp": -22.4,
+        "snowdepht": 54.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-02",
+        "temp": -22.8,
+        "snowdepht": 55.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-03",
+        "temp": -10.3,
+        "snowdepht": 59.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-04",
+        "temp": -7.1,
+        "snowdepht": 60.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-05",
+        "temp": -5.1,
+        "snowdepht": 61.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-06",
+        "temp": -4.8,
+        "snowdepht": 64.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-07",
+        "temp": -6.8,
+        "snowdepht": 60.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-08",
+        "temp": -7.8,
+        "snowdepht": 66.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-09",
+        "temp": -3.3,
+        "snowdepht": 44.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-10",
+        "temp": -22.0,
+        "snowdepht": 66.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-11",
+        "temp": -28.4,
+        "snowdepht": 72.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-12",
+        "temp": -24.5,
+        "snowdepht": 70.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-13",
+        "temp": -26.5,
+        "snowdepht": 70.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-14",
+        "temp": -26.8,
+        "snowdepht": 73.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-15",
+        "temp": -32.8,
+        "snowdepht": 76.2,
+        "isDzud": 1
+    },
+    {
+        "date": "2024-02-16",
+        "temp": -32.5,
+        "snowdepht": 77.9,
+        "isDzud": 1
+    },
+    {
+        "date": "2024-02-17",
+        "temp": -31.6,
+        "snowdepht": 77.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-18",
+        "temp": -34.3,
+        "snowdepht": 78.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-19",
+        "temp": -35.2,
+        "snowdepht": 78.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-20",
+        "temp": -33.7,
+        "snowdepht": 78.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-21",
+        "temp": -32.6,
+        "snowdepht": 77.9,
+        "isDzud": 1
+    },
+    {
+        "date": "2024-02-22",
+        "temp": -33.3,
+        "snowdepht": 77.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-23",
+        "temp": -32.8,
+        "snowdepht": 77.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-24",
+        "temp": -33.7,
+        "snowdepht": 77.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-25",
+        "temp": -22.1,
+        "snowdepht": 77.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-26",
+        "temp": -11.3,
+        "snowdepht": 76.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-27",
+        "temp": -16.4,
+        "snowdepht": 77.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-28",
+        "temp": -15.3,
+        "snowdepht": 76.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-02-29",
+        "temp": -19.3,
+        "snowdepht": 50.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-01",
+        "temp": -19.8,
+        "snowdepht": 41.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-02",
+        "temp": -16.4,
+        "snowdepht": 41.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-03",
+        "temp": -22.3,
+        "snowdepht": 41.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-04",
+        "temp": -15.3,
+        "snowdepht": 38.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-05",
+        "temp": -14.1,
+        "snowdepht": 38.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-06",
+        "temp": -17.1,
+        "snowdepht": 38.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-07",
+        "temp": -19.4,
+        "snowdepht": 39.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-08",
+        "temp": -24.5,
+        "snowdepht": 41.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-09",
+        "temp": -16.4,
+        "snowdepht": 40.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-10",
+        "temp": -13.1,
+        "snowdepht": 32.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-11",
+        "temp": -18.3,
+        "snowdepht": 31.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-12",
+        "temp": -21.0,
+        "snowdepht": 32.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-13",
+        "temp": -18.3,
+        "snowdepht": 32.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-14",
+        "temp": -21.4,
+        "snowdepht": 32.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-15",
+        "temp": -17.5,
+        "snowdepht": 32.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-16",
+        "temp": -12.4,
+        "snowdepht": 35.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-17",
+        "temp": -18.5,
+        "snowdepht": 35.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-18",
+        "temp": -22.8,
+        "snowdepht": 34.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-19",
+        "temp": -9.3,
+        "snowdepht": 26.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-20",
+        "temp": -15.1,
+        "snowdepht": 30.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-21",
+        "temp": -19.1,
+        "snowdepht": 33.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-22",
+        "temp": -21.1,
+        "snowdepht": 34.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-23",
+        "temp": -13.6,
+        "snowdepht": 32.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-24",
+        "temp": -16.6,
+        "snowdepht": 28.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-25",
+        "temp": -3.9,
+        "snowdepht": 22.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-26",
+        "temp": -8.6,
+        "snowdepht": 16.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-27",
+        "temp": 0.4,
+        "snowdepht": 5.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-28",
+        "temp": 0.4,
+        "snowdepht": 2.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-29",
+        "temp": -0.8,
+        "snowdepht": 4.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-30",
+        "temp": -7.6,
+        "snowdepht": 9.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-03-31",
+        "temp": -7.5,
+        "snowdepht": 9.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-01",
+        "temp": -1.8,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-02",
+        "temp": -2.9,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-03",
+        "temp": -2.1,
+        "snowdepht": 0.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-04",
+        "temp": -2.7,
+        "snowdepht": 1.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-05",
+        "temp": -3.0,
+        "snowdepht": 1.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-06",
+        "temp": -2.9,
+        "snowdepht": 1.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-07",
+        "temp": -4.8,
+        "snowdepht": 0.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-08",
+        "temp": -7.1,
+        "snowdepht": 1.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-09",
+        "temp": -8.1,
+        "snowdepht": 0.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-10",
+        "temp": -7.8,
+        "snowdepht": 4.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-11",
+        "temp": -6.6,
+        "snowdepht": 8.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-12",
+        "temp": -7.2,
+        "snowdepht": 9.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-13",
+        "temp": -6.1,
+        "snowdepht": 3.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-14",
+        "temp": -6.5,
+        "snowdepht": 1.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-15",
+        "temp": -9.0,
+        "snowdepht": 5.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-16",
+        "temp": -9.3,
+        "snowdepht": 5.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-17",
+        "temp": -8.3,
+        "snowdepht": 5.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-18",
+        "temp": -9.9,
+        "snowdepht": 5.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-19",
+        "temp": -12.1,
+        "snowdepht": 8.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-20",
+        "temp": -13.0,
+        "snowdepht": 7.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-21",
+        "temp": -12.8,
+        "snowdepht": 9.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-22",
+        "temp": -12.7,
+        "snowdepht": 9.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-23",
+        "temp": -12.3,
+        "snowdepht": 9.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-24",
+        "temp": -11.3,
+        "snowdepht": 7.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-25",
+        "temp": -11.8,
+        "snowdepht": 7.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-26",
+        "temp": -13.5,
+        "snowdepht": 9.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-27",
+        "temp": -12.5,
+        "snowdepht": 12.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-28",
+        "temp": -12.6,
+        "snowdepht": 12.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-29",
+        "temp": -12.4,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-11-30",
+        "temp": -14.7,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-01",
+        "temp": -15.8,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-02",
+        "temp": -15.4,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-03",
+        "temp": -13.8,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-04",
+        "temp": -12.3,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-05",
+        "temp": -12.2,
+        "snowdepht": 12.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-06",
+        "temp": -14.6,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-07",
+        "temp": -16.3,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-08",
+        "temp": -15.1,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-09",
+        "temp": -15.7,
+        "snowdepht": 16.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-10",
+        "temp": -16.2,
+        "snowdepht": 16.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-11",
+        "temp": -16.9,
+        "snowdepht": 16.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-12",
+        "temp": -17.5,
+        "snowdepht": 15.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-13",
+        "temp": -18.1,
+        "snowdepht": 15.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-14",
+        "temp": -17.3,
+        "snowdepht": 12.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-15",
+        "temp": -16.5,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-16",
+        "temp": -18.4,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-17",
+        "temp": -18.0,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-18",
+        "temp": -18.5,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-19",
+        "temp": -17.7,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-20",
+        "temp": -18.1,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-21",
+        "temp": -21.1,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-22",
+        "temp": -21.1,
+        "snowdepht": 28.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-23",
+        "temp": -20.8,
+        "snowdepht": 45.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-24",
+        "temp": -18.9,
+        "snowdepht": 19.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-25",
+        "temp": -19.5,
+        "snowdepht": 29.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-26",
+        "temp": -18.9,
+        "snowdepht": 29.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-27",
+        "temp": -19.3,
+        "snowdepht": 45.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-28",
+        "temp": -17.3,
+        "snowdepht": 44.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-29",
+        "temp": -15.2,
+        "snowdepht": 43.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-30",
+        "temp": -17.4,
+        "snowdepht": 38.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2024-12-31",
+        "temp": -20.8,
+        "snowdepht": 37.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-01",
+        "temp": -20.5,
+        "snowdepht": 27.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-02",
+        "temp": -20.7,
+        "snowdepht": 44.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-03",
+        "temp": -19.4,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-04",
+        "temp": -21.0,
+        "snowdepht": 25.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-05",
+        "temp": -19.9,
+        "snowdepht": 40.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-06",
+        "temp": -19.6,
+        "snowdepht": 40.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-07",
+        "temp": -19.7,
+        "snowdepht": 20.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-08",
+        "temp": -19.7,
+        "snowdepht": 31.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-09",
+        "temp": -22.2,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-10",
+        "temp": -19.5,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-11",
+        "temp": -18.0,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-12",
+        "temp": -18.0,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-13",
+        "temp": -19.5,
+        "snowdepht": 21.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-14",
+        "temp": -18.7,
+        "snowdepht": 24.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-15",
+        "temp": -18.9,
+        "snowdepht": 28.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-16",
+        "temp": -16.8,
+        "snowdepht": 40.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-17",
+        "temp": -19.0,
+        "snowdepht": 68.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-18",
+        "temp": -21.6,
+        "snowdepht": 69.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-19",
+        "temp": -22.5,
+        "snowdepht": 69.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-20",
+        "temp": -20.4,
+        "snowdepht": 68.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-21",
+        "temp": -20.0,
+        "snowdepht": 68.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-22",
+        "temp": -22.3,
+        "snowdepht": 68.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-23",
+        "temp": -22.4,
+        "snowdepht": 67.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-24",
+        "temp": -23.8,
+        "snowdepht": 67.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-25",
+        "temp": -25.0,
+        "snowdepht": 67.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-26",
+        "temp": -21.1,
+        "snowdepht": 67.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-27",
+        "temp": -22.8,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-28",
+        "temp": -23.8,
+        "snowdepht": 52.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-29",
+        "temp": -23.1,
+        "snowdepht": 52.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-30",
+        "temp": -22.7,
+        "snowdepht": 59.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-01-31",
+        "temp": -22.8,
+        "snowdepht": 59.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-01",
+        "temp": -19.2,
+        "snowdepht": 59.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-02",
+        "temp": -20.2,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-03",
+        "temp": -18.9,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-04",
+        "temp": -19.2,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-05",
+        "temp": -19.6,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-06",
+        "temp": -18.6,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-07",
+        "temp": -17.9,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-08",
+        "temp": -16.8,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-09",
+        "temp": -20.1,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-10",
+        "temp": -23.1,
+        "snowdepht": 59.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-11",
+        "temp": -21.4,
+        "snowdepht": 59.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-12",
+        "temp": -19.2,
+        "snowdepht": 31.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-13",
+        "temp": -19.9,
+        "snowdepht": 32.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-14",
+        "temp": -20.4,
+        "snowdepht": 43.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-15",
+        "temp": -19.7,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-16",
+        "temp": -19.4,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-17",
+        "temp": -19.3,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-18",
+        "temp": -19.6,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-19",
+        "temp": -20.8,
+        "snowdepht": 80.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-20",
+        "temp": -19.9,
+        "snowdepht": 80.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-21",
+        "temp": -19.4,
+        "snowdepht": 87.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-22",
+        "temp": -20.4,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-23",
+        "temp": -20.1,
+        "snowdepht": 69.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-24",
+        "temp": -20.0,
+        "snowdepht": 74.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-25",
+        "temp": -19.2,
+        "snowdepht": 77.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-26",
+        "temp": -17.3,
+        "snowdepht": 67.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-27",
+        "temp": -17.4,
+        "snowdepht": 64.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-02-28",
+        "temp": -16.7,
+        "snowdepht": 72.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-01",
+        "temp": -15.6,
+        "snowdepht": 72.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-02",
+        "temp": -16.5,
+        "snowdepht": 72.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-03",
+        "temp": -16.6,
+        "snowdepht": 72.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temp": -14.3,
+        "snowdepht": 87.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-05",
+        "temp": -15.3,
+        "snowdepht": 87.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-06",
+        "temp": -11.4,
+        "snowdepht": 87.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-07",
+        "temp": -12.2,
+        "snowdepht": 86.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-08",
+        "temp": -13.0,
+        "snowdepht": 85.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-09",
+        "temp": -13.5,
+        "snowdepht": 84.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-10",
+        "temp": -14.5,
+        "snowdepht": 84.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-11",
+        "temp": -13.9,
+        "snowdepht": 83.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-12",
+        "temp": -13.7,
+        "snowdepht": 82.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-13",
+        "temp": -14.4,
+        "snowdepht": 71.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-14",
+        "temp": -12.6,
+        "snowdepht": 71.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-15",
+        "temp": -14.2,
+        "snowdepht": 71.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-16",
+        "temp": -13.4,
+        "snowdepht": 75.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-17",
+        "temp": -12.8,
+        "snowdepht": 73.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-18",
+        "temp": -13.3,
+        "snowdepht": 75.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-19",
+        "temp": -11.8,
+        "snowdepht": 75.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-20",
+        "temp": -10.8,
+        "snowdepht": 75.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-21",
+        "temp": -9.2,
+        "snowdepht": 65.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-22",
+        "temp": -8.0,
+        "snowdepht": 64.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-23",
+        "temp": -5.5,
+        "snowdepht": 75.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-24",
+        "temp": -6.1,
+        "snowdepht": 61.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-25",
+        "temp": -6.4,
+        "snowdepht": 66.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-26",
+        "temp": -5.9,
+        "snowdepht": 60.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-27",
+        "temp": -6.6,
+        "snowdepht": 60.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-28",
+        "temp": -5.8,
+        "snowdepht": 59.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-29",
+        "temp": -5.4,
+        "snowdepht": 57.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-30",
+        "temp": -5.6,
+        "snowdepht": 55.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-03-31",
+        "temp": -6.3,
+        "snowdepht": 78.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-01",
+        "temp": -1.8,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-02",
+        "temp": -2.9,
+        "snowdepht": 0.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-03",
+        "temp": -2.1,
+        "snowdepht": 0.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-04",
+        "temp": -2.7,
+        "snowdepht": 1.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-05",
+        "temp": -3.0,
+        "snowdepht": 1.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-06",
+        "temp": -2.9,
+        "snowdepht": 1.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-07",
+        "temp": -4.8,
+        "snowdepht": 0.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-08",
+        "temp": -7.1,
+        "snowdepht": 1.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-09",
+        "temp": -8.1,
+        "snowdepht": 0.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-10",
+        "temp": -7.8,
+        "snowdepht": 4.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-11",
+        "temp": -6.6,
+        "snowdepht": 8.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-12",
+        "temp": -7.2,
+        "snowdepht": 9.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-13",
+        "temp": -6.1,
+        "snowdepht": 3.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-14",
+        "temp": -6.5,
+        "snowdepht": 1.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-15",
+        "temp": -9.0,
+        "snowdepht": 5.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-16",
+        "temp": -9.3,
+        "snowdepht": 5.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-17",
+        "temp": -8.3,
+        "snowdepht": 5.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-18",
+        "temp": -9.9,
+        "snowdepht": 5.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-19",
+        "temp": -12.1,
+        "snowdepht": 8.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-20",
+        "temp": -13.0,
+        "snowdepht": 7.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-21",
+        "temp": -12.8,
+        "snowdepht": 9.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-22",
+        "temp": -12.7,
+        "snowdepht": 9.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-23",
+        "temp": -12.3,
+        "snowdepht": 9.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-24",
+        "temp": -11.3,
+        "snowdepht": 7.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-25",
+        "temp": -11.8,
+        "snowdepht": 7.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-26",
+        "temp": -13.5,
+        "snowdepht": 9.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-27",
+        "temp": -12.5,
+        "snowdepht": 12.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-28",
+        "temp": -12.6,
+        "snowdepht": 12.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-29",
+        "temp": -12.4,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-11-30",
+        "temp": -14.7,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-01",
+        "temp": -15.8,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-02",
+        "temp": -15.4,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-03",
+        "temp": -13.8,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-04",
+        "temp": -12.3,
+        "snowdepht": 15.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-05",
+        "temp": -12.2,
+        "snowdepht": 12.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-06",
+        "temp": -14.6,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-07",
+        "temp": -16.3,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-08",
+        "temp": -15.1,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-09",
+        "temp": -15.7,
+        "snowdepht": 16.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-10",
+        "temp": -16.2,
+        "snowdepht": 16.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-11",
+        "temp": -16.9,
+        "snowdepht": 16.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-12",
+        "temp": -17.5,
+        "snowdepht": 15.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-13",
+        "temp": -18.1,
+        "snowdepht": 15.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-14",
+        "temp": -17.3,
+        "snowdepht": 12.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-15",
+        "temp": -16.5,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-16",
+        "temp": -18.4,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-17",
+        "temp": -18.0,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-18",
+        "temp": -18.5,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-19",
+        "temp": -17.7,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-20",
+        "temp": -18.1,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-21",
+        "temp": -21.1,
+        "snowdepht": 17.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-22",
+        "temp": -21.1,
+        "snowdepht": 28.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-23",
+        "temp": -20.8,
+        "snowdepht": 45.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-24",
+        "temp": -18.9,
+        "snowdepht": 19.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-25",
+        "temp": -19.5,
+        "snowdepht": 29.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-26",
+        "temp": -18.9,
+        "snowdepht": 29.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-27",
+        "temp": -19.3,
+        "snowdepht": 45.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-28",
+        "temp": -17.3,
+        "snowdepht": 44.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-29",
+        "temp": -15.2,
+        "snowdepht": 43.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-30",
+        "temp": -17.4,
+        "snowdepht": 38.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2025-12-31",
+        "temp": -20.8,
+        "snowdepht": 37.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-01",
+        "temp": -20.5,
+        "snowdepht": 27.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-02",
+        "temp": -20.7,
+        "snowdepht": 44.4,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-03",
+        "temp": -19.4,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-04",
+        "temp": -21.0,
+        "snowdepht": 25.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-05",
+        "temp": -19.9,
+        "snowdepht": 40.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-06",
+        "temp": -19.6,
+        "snowdepht": 40.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-07",
+        "temp": -19.7,
+        "snowdepht": 20.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-08",
+        "temp": -19.7,
+        "snowdepht": 31.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-09",
+        "temp": -22.2,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-10",
+        "temp": -19.5,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-11",
+        "temp": -18.0,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-12",
+        "temp": -18.0,
+        "snowdepht": 22.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-13",
+        "temp": -19.5,
+        "snowdepht": 21.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-14",
+        "temp": -18.7,
+        "snowdepht": 24.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-15",
+        "temp": -18.9,
+        "snowdepht": 28.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-16",
+        "temp": -16.8,
+        "snowdepht": 40.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-17",
+        "temp": -19.0,
+        "snowdepht": 68.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-18",
+        "temp": -21.6,
+        "snowdepht": 69.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-19",
+        "temp": -22.5,
+        "snowdepht": 69.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-20",
+        "temp": -20.4,
+        "snowdepht": 68.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-21",
+        "temp": -20.0,
+        "snowdepht": 68.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-22",
+        "temp": -22.3,
+        "snowdepht": 68.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-23",
+        "temp": -22.4,
+        "snowdepht": 67.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-24",
+        "temp": -23.8,
+        "snowdepht": 67.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-25",
+        "temp": -25.0,
+        "snowdepht": 67.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-26",
+        "temp": -21.1,
+        "snowdepht": 67.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-27",
+        "temp": -22.8,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-28",
+        "temp": -23.8,
+        "snowdepht": 52.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-29",
+        "temp": -23.1,
+        "snowdepht": 52.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-30",
+        "temp": -22.7,
+        "snowdepht": 59.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-01-31",
+        "temp": -22.8,
+        "snowdepht": 59.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-01",
+        "temp": -19.2,
+        "snowdepht": 59.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-02",
+        "temp": -20.2,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-03",
+        "temp": -18.9,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-04",
+        "temp": -19.2,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-05",
+        "temp": -19.6,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-06",
+        "temp": -18.6,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-07",
+        "temp": -17.9,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-08",
+        "temp": -16.8,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-09",
+        "temp": -20.1,
+        "snowdepht": 61.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-10",
+        "temp": -23.1,
+        "snowdepht": 59.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-11",
+        "temp": -21.4,
+        "snowdepht": 59.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-12",
+        "temp": -19.2,
+        "snowdepht": 31.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-13",
+        "temp": -19.9,
+        "snowdepht": 32.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-14",
+        "temp": -20.4,
+        "snowdepht": 43.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-15",
+        "temp": -19.7,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-16",
+        "temp": -19.4,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-17",
+        "temp": -19.3,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-18",
+        "temp": -19.6,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-19",
+        "temp": -20.8,
+        "snowdepht": 80.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-20",
+        "temp": -19.9,
+        "snowdepht": 80.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-21",
+        "temp": -19.4,
+        "snowdepht": 87.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-22",
+        "temp": -20.4,
+        "snowdepht": 70.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-23",
+        "temp": -20.1,
+        "snowdepht": 69.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-24",
+        "temp": -20.0,
+        "snowdepht": 74.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-25",
+        "temp": -19.2,
+        "snowdepht": 77.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-26",
+        "temp": -17.3,
+        "snowdepht": 67.5,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-27",
+        "temp": -17.4,
+        "snowdepht": 64.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-02-28",
+        "temp": -16.7,
+        "snowdepht": 72.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-01",
+        "temp": -15.6,
+        "snowdepht": 72.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-02",
+        "temp": -16.5,
+        "snowdepht": 72.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-03",
+        "temp": -16.6,
+        "snowdepht": 72.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-04",
+        "temp": -14.3,
+        "snowdepht": 87.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-05",
+        "temp": -15.3,
+        "snowdepht": 87.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-06",
+        "temp": -11.4,
+        "snowdepht": 87.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-07",
+        "temp": -12.2,
+        "snowdepht": 86.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-08",
+        "temp": -13.0,
+        "snowdepht": 85.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-09",
+        "temp": -13.5,
+        "snowdepht": 84.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-10",
+        "temp": -14.5,
+        "snowdepht": 84.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-11",
+        "temp": -13.9,
+        "snowdepht": 83.6,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-12",
+        "temp": -13.7,
+        "snowdepht": 82.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-13",
+        "temp": -14.4,
+        "snowdepht": 71.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-14",
+        "temp": -12.6,
+        "snowdepht": 71.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-15",
+        "temp": -14.2,
+        "snowdepht": 71.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-16",
+        "temp": -13.4,
+        "snowdepht": 75.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-17",
+        "temp": -12.8,
+        "snowdepht": 73.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-18",
+        "temp": -13.3,
+        "snowdepht": 75.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-19",
+        "temp": -11.8,
+        "snowdepht": 75.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-20",
+        "temp": -10.8,
+        "snowdepht": 75.0,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-21",
+        "temp": -9.2,
+        "snowdepht": 65.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-22",
+        "temp": -8.0,
+        "snowdepht": 64.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-23",
+        "temp": -5.5,
+        "snowdepht": 75.2,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-24",
+        "temp": -6.1,
+        "snowdepht": 61.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-25",
+        "temp": -6.4,
+        "snowdepht": 66.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-26",
+        "temp": -5.9,
+        "snowdepht": 60.8,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-27",
+        "temp": -6.6,
+        "snowdepht": 60.1,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-28",
+        "temp": -5.8,
+        "snowdepht": 59.3,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-29",
+        "temp": -5.4,
+        "snowdepht": 57.7,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-30",
+        "temp": -5.6,
+        "snowdepht": 55.9,
+        "isDzud": 0
+    },
+    {
+        "date": "2026-03-31",
+        "temp": -6.3,
+        "snowdepht": 78.9,
+        "isDzud": 0
+    }
+]
